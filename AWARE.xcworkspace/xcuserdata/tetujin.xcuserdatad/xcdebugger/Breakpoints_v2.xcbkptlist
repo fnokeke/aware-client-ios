@@ -196,12 +196,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AWARE/AWAREFramework/Plugins/Fitbit/Fitbit.m"
-            timestampString = "506959587.860429"
+            timestampString = "507880037.49575"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "283"
-            endingLineNumber = "283"
-            landmarkName = "-getData:"
+            startingLineNumber = "595"
+            endingLineNumber = "595"
+            landmarkName = "-refreshToken"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
